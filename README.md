@@ -1,5 +1,5 @@
-Automata From Regular Expressions
-=================================
+P2P Chat App
+============
 Overview and Usage
 ------------------
 This is a python program for [peer-to-peer][1] chat application, built as a class project for Computer Networks. It can communicate between peers without the need for a central server. The only requirement is to know the peer's network address in the form of IP and Port number.
